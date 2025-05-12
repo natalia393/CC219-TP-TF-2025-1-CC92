@@ -1,4 +1,12 @@
 # Aplicaciones_Data
+## ✅ Conclusiones
+
+A través del desarrollo de este proyecto se concluyó que:
+
+- Se observó una correlación entre la longitud del texto y el sentimiento, así como una mayor especificidad semántica en las palabras clave de sentimientos polarizados (positivos y negativos) en comparación con los neutros.
+- El preprocesamiento del texto, que incluyó la eliminación de elementos ruidosos y palabras vacías, resultó fundamental para optimizar la calidad de los datos y facilitar un análisis lingüístico más efectivo.
+- La identificación de patrones lingüísticos asociados a diferentes sentimientos subraya el valor del procesamiento de datos para la clasificación de sentimientos y sienta las bases para el desarrollo de modelos predictivos más avanzados.
+  
 ## 📜 Licencia
 
 Este proyecto se desarrolla con fines educativos como parte del curso **CC219 - Aplicaciones de Data Science** de la Universidad.  
