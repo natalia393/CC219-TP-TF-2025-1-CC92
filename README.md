@@ -1,4 +1,12 @@
 # Aplicaciones_Data
+## 📄 Descripción del dataset
+
+El dataset utilizado en este trabajo es el **Tweet Sentiment Extraction Dataset**, proporcionado por Kaggle. Contiene publicaciones reales de Twitter con la siguiente información:
+
+- `text`: contenido original del tweet.
+- `sentiment`: sentimiento general (positivo, negativo o neutral).
+- `selected_text`: fragmento del tweet que expresa el sentimiento (solo en los datos de entrenamiento).
+  
 ## ✅ Conclusiones
 
 A través del desarrollo de este proyecto se concluyó que:
