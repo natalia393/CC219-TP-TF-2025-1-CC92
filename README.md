@@ -1,4 +1,10 @@
 # Aplicaciones_Data
+## 👥 Alumnos participantes
+
+- Natalia Milagros Huamanchumo Arroyo – U20221C602
+- Mireya Nicole Sihuincha Schermuly – u20221A963
+- Jorge Piero Chipoco Mejía – u202210236
+  
 ## 📄 Descripción del dataset
 
 El dataset utilizado en este trabajo es el **Tweet Sentiment Extraction Dataset**, proporcionado por Kaggle. Contiene publicaciones reales de Twitter con la siguiente información:
