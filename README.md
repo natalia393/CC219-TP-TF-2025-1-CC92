@@ -1,4 +1,9 @@
-# Aplicaciones_Data
+# Trabajo Parcial
+
+## 🎯 Objetivo del trabajo
+
+Este trabajo tiene como objetivo explorar y aplicar técnicas de ciencia de datos, desde el preprocesamiento de los datos hasta la evaluación de un modelo de análisis de sentimientos, con el fin de identificar las mejores estrategias para realizar predicciones precisas en el ámbito del análisis de texto.
+
 ## 👥 Alumnos participantes
 
 - Natalia Milagros Huamanchumo Arroyo – U20221C602
