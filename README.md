@@ -22,9 +22,13 @@ El dataset utilizado en este trabajo es el **Tweet Sentiment Extraction Dataset*
 
 A través del desarrollo de este proyecto se concluyó que:
 
-- Se observó una correlación entre la longitud del texto y el sentimiento, así como una mayor especificidad semántica en las palabras clave de sentimientos polarizados (positivos y negativos) en comparación con los neutros.
-- El preprocesamiento del texto, que incluyó la eliminación de elementos ruidosos y palabras vacías, resultó fundamental para optimizar la calidad de los datos y facilitar un análisis lingüístico más efectivo.
-- La identificación de patrones lingüísticos asociados a diferentes sentimientos subraya el valor del procesamiento de datos para la clasificación de sentimientos y sienta las bases para el desarrollo de modelos predictivos más avanzados.
+La arquitectura multitarea (clasificación + extracción) resultó efectiva para entender no solo el sentimiento, sino también su causa textual.
+
+El uso de DistilBERT permitió velocidad de inferencia < 50ms, haciéndolo viable para aplicaciones en tiempo real.
+
+El enfoque tiene aplicaciones prácticas en marketing, atención al cliente y monitoreo de reputación online.
+
+Como mejora futura, se podría ajustar el modelo BETO para mejor adaptación al español y ampliar el análisis a otras plataformas.
   
 ## 📜 Licencia
 
