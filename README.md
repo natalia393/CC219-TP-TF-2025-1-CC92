@@ -1,4 +1,4 @@
-# Trabajo Parcial
+# Trabajo Final
 
 ## 🎯 Objetivo del trabajo
 
